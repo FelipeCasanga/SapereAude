@@ -302,16 +302,16 @@ msgstr "Olvidé mi contraseña"
 
 #: templates/base.html:10
 msgid "Tabbycat"
-msgstr ""
+msgstr "Sapere Aude"
 
 #: templates/base.html:13
 #, python-format
 msgid "The tab for %(tournament)s runs on Tabbycat, a source-available tab system for a variety of parliamentary debating formats"
-msgstr "El tab de %(tournament)s funciona con Tabbycat, un sistema de código abierto de tab para una variedad de formatos de debate parlamentario"
+msgstr "La tabulación de %(tournament)s funciona con una versión modificada de Tabbycat, un sistema de código abierto de tab para una variedad de formatos de debate parlamentario"
 
 #: templates/base.html:17
 msgid "This tab runs on Tabbycat, a source-available tab system for a variety of parliamentary debating formats"
-msgstr "Este tab funciona con Tabbycat, un sistema de código abierto de tab para una variedad de formatos de debate parlamentario"
+msgstr "Esta tabulación funciona con una versión modificada de Tabbycat, un sistema de código abierto de tab para una variedad de formatos de debate parlamentario"
 
 #: templates/components/form-errors.html:4
 msgid "Whoops! There was an error with one or more fields."
@@ -356,7 +356,7 @@ msgstr "%(tournament)s funciona con Tabbycat %(tabbycat_version)s (%(tabbycat_co
 #: templates/footer.html:16
 #, python-format
 msgid "This site runs on Tabbycat %(tabbycat_version)s (%(tabbycat_codename)s)"
-msgstr "Este sitio funciona con Tabbycat %(tabbycat_version)s (%(tabbycat_codename)s)"
+msgstr "Este sitio funciona con Tabbycat 2.6.8-A (AUDE)"
 
 #: templates/footer.html:20
 msgid "Tabbycat is a source-available project developed by volunteers, and is free to use for tabbing non-profit, non-fundraising tournaments."
@@ -373,24 +373,24 @@ msgstr "Aprender más sobre las donaciones."
 
 #: templates/footer.html:31
 msgid "<a href=\"https://opencollective.com/tabbycat\">Donations to Tabbycat from individuals or organisations</a> are much appreciated."
-msgstr ""
+msgstr "<a href=\"https://opencollective.com/tabbycat\">Donaciones a Tabbycat de individuos u organizaciones</a> son muy apreciadas."
 
 #: templates/footer.html:40
 msgid "Still timing debates with the stopwatch app?"
-msgstr ""
+msgstr "¡Bienvenide al sitio de tabulación de Sapere Aude!"
 
 #: templates/footer.html:42
 #, python-format
-msgid "Using an app designed for debate timekeeping makes speaking and adjudicating easier! Check out <a href=\"https://itunes.apple.com/app/apple-store/id1156065589?pt=814172&ct=Tabbycat%%20Installs&mt=8\">Timekept</a> (iPhone/iPad) or <a href=\"https://play.google.com/store/apps/details?id=net.czlee.debatekeeper&referrer=utm_source%%3Dtabbycat%%26utm_medium%%3Dfooter\">Debatekeeper</a> (Android)."
+msgid "Si tienes problemas o dudas ponte en contacto con nuestro <a href=\"https://www.instagram.com/sapere.audeuai/?hl=es">Equipo de Directiva</a> o el<a href=\"https://www.instagram.com/sapere.audeuai/?hl=es">Equipo de Equidad</a>."
 msgstr ""
 
 #: templates/footer.html:50
 msgid "Our Organisation"
-msgstr ""
+msgstr "Nuestra Organización"
 
 #: templates/footer.html:52
 msgid "Tabbycat is supported by the <a href=\"http://tabbycat-debate.org/\">Tabbycat Debate Association</a>, a non-profit for advancing open debate technology."
-msgstr ""
+msgstr "La <a href=\"https://www.instagram.com/sapere.audeuai/?hl=es/\">Sociedad de Debate y Litigación "Sapere Aude"</a>, es una organización estudiantil de la Universidad Adolfo Ibáñez, dedicada al aprendizaje y la competición en el área del Debate nacional e internacional."
 
 #: templates/footer.html:66
 msgid "Language"
