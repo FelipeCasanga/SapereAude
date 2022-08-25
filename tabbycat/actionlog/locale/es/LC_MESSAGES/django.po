@@ -55,7 +55,7 @@ msgstr "Ha guardado feedback"
 
 #: actionlog/models.py:97
 msgid "Edited adjudicator base score"
-msgstr ""
+msgstr "Se editó el puntaje base del juez"
 
 #: actionlog/models.py:98
 msgid "Set adjudicator note"
@@ -87,23 +87,23 @@ msgstr "Editar las restricciones de sala"
 
 #: actionlog/models.py:105
 msgid "Created draw"
-msgstr "Ha creado el cuadro"
+msgstr "Ha creado el draw"
 
 #: actionlog/models.py:106
 msgid "Confirmed draw"
-msgstr "Ha confirmado el cuadro"
+msgstr "Ha confirmado el draw"
 
 #: actionlog/models.py:107
 msgid "Regenerated draw"
-msgstr "Ha regenerado el cuadro"
+msgstr "Ha regenerado el draw"
 
 #: actionlog/models.py:108
 msgid "Released draw"
-msgstr "Ha publicado el cuadro"
+msgstr "Ha publicado el draw"
 
 #: actionlog/models.py:109
 msgid "Unreleased draw"
-msgstr "Ha despublicado el cuadro"
+msgstr "Ha despublicado el draw"
 
 #: actionlog/models.py:110
 msgid "Saved a matchup manual edit"
@@ -175,7 +175,7 @@ msgstr "Ha avanzado la ronda presente a"
 
 #: actionlog/models.py:127
 msgid "Marked round as completed"
-msgstr ""
+msgstr "Ronda marcada como completa"
 
 #: actionlog/models.py:128
 msgid "Edited teams availability"
@@ -203,75 +203,75 @@ msgstr "Ha editado las categorías de orador"
 
 #: actionlog/models.py:134
 msgid "Imported institutions using the simple importer"
-msgstr "Importar las instituciones usando el importador simple"
+msgstr "Importadas las instituciones usando el importador simple"
 
 #: actionlog/models.py:135
 msgid "Imported rooms using the simple importer"
-msgstr "Importar salas usando el importador simple"
+msgstr "Importadas las salas usando el importador simple"
 
 #: actionlog/models.py:136
 msgid "Imported teams using the simple importer"
-msgstr "Importar equipos usando el importador simple"
+msgstr "Importados los equipos usando el importador simple"
 
 #: actionlog/models.py:137
 msgid "Imported adjudicators using the simple importer"
-msgstr "Importar jueces usando el importador simple"
+msgstr "Importados jueces usando el importador simple"
 
 #: actionlog/models.py:138
 msgid "Updated adjudicator scores in bulk"
-msgstr "Actualizar la calificación de jueces en masa"
+msgstr "Actualizada la calificación de jueces en masa"
 
 #: actionlog/models.py:139
 msgid "Edited adjudicator-team conflicts"
-msgstr "Editar los conflictos juez-equipo"
+msgstr "Editados los conflictos juez-equipo"
 
 #: actionlog/models.py:140
 msgid "Edited adjudicator-adjudicator conflicts"
-msgstr "Editar conflictos juez-juez"
+msgstr "Editados los conflictos juez-juez"
 
 #: actionlog/models.py:141
 msgid "Edited adjudicator-institution conflicts"
-msgstr "Editar conflictos juez-institución"
+msgstr "Editados los conflictos juez-institución"
 
 #: actionlog/models.py:142
 msgid "Edited team-institution conflicts"
-msgstr ""
+msgstr "Editados los conflictos equipo-institución"
 
 #: actionlog/models.py:143
 msgid "Generated check in identifiers for speakers"
-msgstr "Generar identificaciones para el check-in de los oradores"
+msgstr "Generadas identificaciones para el check-in de los oradores"
 
 #: actionlog/models.py:144
 msgid "Generated check in identifiers for adjudicators"
-msgstr "Generar identificaciones para el check-in de los jueces"
+msgstr "Generadas identificaciones para el check-in de los jueces"
 
 #: actionlog/models.py:145
 msgid "Generated check in identifiers for rooms"
-msgstr "Generar identificaciones para el check-in de las salas"
+msgstr "Generadas identificaciones para el check-in de las salas"
 
 #: actionlog/models.py:146
 msgid "Created preformed panels"
-msgstr ""
+msgstr "Creado paneles preformados"
 
 #: actionlog/models.py:147
 msgid "Auto-prioritized preformed panels"
-msgstr ""
+msgstr "Paneles preformados priorizados automáticamente"
 
 #: actionlog/models.py:148
 msgid "Edited preformed panel importance"
-msgstr ""
+msgstr "Editada la importancia del panel preformado"
 
 #: actionlog/models.py:149
 msgid "Auto-allocated adjudicators to preformed panels"
-msgstr ""
+msgstr "Jueces añadidos a los paneles preformados automáticamente"
 
 #: actionlog/models.py:150
 msgid "Edited preformed panel adjudicator"
-msgstr ""
+msgstr "Editado el juez del panel preformado"
 
 #: actionlog/models.py:151
 msgid "Auto-allocated preformed panels to debates"
-msgstr ""
+msgstr "Paneles preformados añadidos a debates automáticamente"
 
 #: actionlog/models.py:155
 msgid "type"

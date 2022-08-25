@@ -377,7 +377,7 @@ msgstr "<a href=\"https://opencollective.com/tabbycat\">Donaciones a Tabbycat de
 
 #: templates/footer.html:40
 msgid "Still timing debates with the stopwatch app?"
-msgstr "¡Bienvenide al sitio de tabulación de Sapere Aude!"
+msgstr "¡Bienvenido al sitio de tabulación de Sapere Aude!"
 
 #: templates/footer.html:42
 #, python-format
