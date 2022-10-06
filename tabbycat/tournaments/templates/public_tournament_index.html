@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% load debate_tags i18n static %}
 
-{% block head-title %}<span class="emoji">👋</span>
+{% block head-title %}<span class="emoji">💡</span>
 {% blocktrans trimmed with tournament=tournament.name %}
     Welcome to {{ tournament }}
 {% endblocktrans %}{% endblock %}
@@ -232,13 +232,13 @@
       <div class="list-group mt-2">
         <div class="list-group-item px-3 pb-2">
           <div class="bg-secondary">
-            <a href="https://fdtacademy.com/fdtregistration/?referall=tabbycat{{ version }}">
+            <a href="https://www.instagram.com/sapere.audeuai/?hl=es">
               {% get_unit 'big' as unit_path %}
               <img style="max-width: 100%;" src="{% static unit_path %}" />
             </a>
           </div>
           <div class="text-right text-italic">
-            <small>Advertisment by a <a href="https://opencollective.com/tabbycat#category-CONTRIBUTE">Tabbycat Sponsor</a></small>
+            <small>Revisa el Instagram de <a href="https://www.instagram.com/sapere.audeuai/?hl=es">Sapere Aude</a></small>
           </div>
         </div>
       </div>

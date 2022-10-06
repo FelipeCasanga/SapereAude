@@ -382,7 +382,7 @@ msgstr "¡Bienvenido al sitio de tabulación de Sapere Aude!"
 #: templates/footer.html:42
 #, python-format
 msgid "Si tienes problemas o dudas ponte en contacto con nuestro <a href=\"https://www.instagram.com/sapere.audeuai/?hl=es">Equipo de Directiva</a> o el<a href=\"https://www.instagram.com/sapere.audeuai/?hl=es">Equipo de Equidad</a>."
-msgstr ""
+msgstr "Si tienes problemas o dudas ponte en contacto con nuestro <a href=\"https://www.instagram.com/sapere.audeuai/?hl=es">Equipo de Directiva</a> o el<a href=\"https://www.instagram.com/sapere.audeuai/?hl=es">Equipo de Equidad</a>."
 
 #: templates/footer.html:50
 msgid "Our Organisation"
