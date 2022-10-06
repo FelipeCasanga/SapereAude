@@ -11,14 +11,14 @@
       <div class="col-lg-6 col-md-5">
         <h6 class="d-inline-block">
           {% if tournament and tabbycat_codename %}
-            {% blocktrans trimmed %}{{ tournament }} runs on Tabb4ycat {{ tabbycat_version }} ({{ tabbycat_codename }}) {% endblocktrans %}
+            {% blocktrans trimmed %}{{ tournament }} funciona con SapereTool, una versión modificada de TabbyCat {{ tabbycat_version }} ({{ tabbycat_codename }}) {% endblocktrans %}
           {% else %}
             {% blocktrans trimmed %}This site runs on Tabbycat {{ tabbycat_version }} ({{ tabbycat_codename }}) {% endblocktrans %}
           {% endif %}
         </h6>
         <p class="text-muted">
           {% blocktrans trimmed %}
-            Tabbycat is a source-available project developed by volunteers, and is free to use for tabbing non-profit, non-fundraising tournaments.
+            Damos muchos agradecimientos a Tabbycat, un projecto de código abierto desarrollado por voluntarios, y gratuito de usar sin fines de lucro.
           {% endblocktrans %}
           {% if tournament and tournament.billable_teams > 0 %}
             {% blocktrans trimmed with amount=tournament.billable_teams %}
@@ -29,28 +29,26 @@
             </a>
           {% else %}
             {% blocktrans trimmed %}
-              <a href="https://opencollective.com/tabbycat">Donations to Tabbycat from individuals or organisations</a> are much appreciated.
+              <a href="https://opencollective.com/tabbycat">Donaciones a Tabbycat por grupos o individuos</a> son muy apreciadas.
             {% endblocktrans %}
           {% endif %}
         </p>
       </div>
 
       <div class="col-lg-4 col-md-4 mt-2 mt-md-0">
-        <h6 class="d-inline-block">{% blocktrans trimmed %}Still timing debates with the stopwatch app?{% endblocktrans %}</h6>
+        <h6 class="d-inline-block">{% blocktrans trimmed %}¿No estás en el Discord del Campeonato?{% endblocktrans %}</h6>
         <p class="text-muted">
           {% blocktrans trimmed %}
-            Using an app designed for debate timekeeping makes speaking and adjudicating easier!
-            Check out <a href="https://itunes.apple.com/app/apple-store/id1156065589?pt=814172&ct=Tabbycat%20Installs&mt=8">Timekept</a> (iPhone/iPad)
-            or <a href="https://play.google.com/store/apps/details?id=net.czlee.debatekeeper&referrer=utm_source%3Dtabbycat%26utm_medium%3Dfooter">Debatekeeper</a> (Android).
+            Es importante que te unas para toda la información disponible sobre la Copa Sapere Aude <a href="https://discord.gg/z7Vu4P8mDG">¡usa este link!</a>
           {% endblocktrans %}
         </p>
       </div>
 
       <div class="col-lg-2 col-md-3 mt-2 mt-md-0">
-        <h6 class="d-inline-block">{% blocktrans trimmed %}Our Organisation{% endblocktrans %}</h6>
+        <h6 class="d-inline-block">{% blocktrans trimmed %}Nuestra Organización{% endblocktrans %}</h6>
         <p class="text-muted">
           {% blocktrans trimmed %}
-            Tabbycat is supported by the <a href="http://tabbycat-debate.org/">Tabbycat Debate Association</a>, a non-profit for advancing open debate technology.
+            La Copa Sapere Aude es organizada por la <a href="https://www.instagram.com/sapere.audeuai/?hl=es/">Sociedad de Debate y Litigación "Sapere Aude"</a>, una organización estudiantil perteneciente a la Universidad Adolfo Ibáñez.
           {% endblocktrans %}
         </p>
       </div>
