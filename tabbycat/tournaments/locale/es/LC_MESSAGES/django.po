@@ -491,7 +491,7 @@ msgstr ""
 #: tournaments/templates/public_tournament_index.html:9
 #, python-format
 msgid "Welcome to %(tournament)s"
-msgstr "Bienvenidos al %(tournament)s"
+msgstr "Bienvenidos a la %(tournament)s"
 
 #: tournaments/templates/public_tournament_index.html:18
 msgid "There is currently no public information available for this tournament."
